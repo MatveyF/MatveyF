@@ -6,7 +6,7 @@
 
 - 👨‍🔬 Data Scientist
 - 🏛️ UCL alumnus, Electronic & Electrical Engineering
-- 💼 Building EvoML at TurinTech.ai
+- 💼 Building an AutoML at TurinTech.ai
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
